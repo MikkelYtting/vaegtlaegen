@@ -7,6 +7,8 @@ void main() {
       initialRoute: '/login',
       routes: {
         '/login': (context) => LoginScreen(),
+        //'/home': (context) => HomeScreen(),
+
         // Add other routes here
       },
     ),
