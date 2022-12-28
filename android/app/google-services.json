@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32290979338",
+    "firebase_url": "https://vaegtlaegen-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "vaegtlaegen",
+    "storage_bucket": "vaegtlaegen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32290979338:android:935b1e0977fd90eee569f3",
+        "android_client_info": {
+          "package_name": "com.example.vaegtlaegen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32290979338-cc8lh7ur8svhs7b4rd0kugnnb4qubk4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHxB5Yehkn65aVvmHfRKF2zttln4OiYMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32290979338-cc8lh7ur8svhs7b4rd0kugnnb4qubk4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32290979338-oclmb40huj1kh02hkjqknorqc0vuebfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vaegtlaegen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
